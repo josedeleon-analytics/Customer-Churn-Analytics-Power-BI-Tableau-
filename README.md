@@ -23,14 +23,14 @@ The dashboards enable interactive exploration of customer behavior, churn risk, 
 ## 📊 Dashboards  
 
 ### Power BI – Customer Churn Dashboard  
-[![Dashboard Preview](plots/dashboard.png)](https://github.com/josedeleon-analytics/customer-churn-dashboard-PowerBI)  
 🔗 [Go to Power BI Repository](https://github.com/josedeleon-analytics/customer-churn-dashboard-PowerBI)  
+[![Dashboard Preview](plots/dashboard.png)](https://github.com/josedeleon-analytics/customer-churn-dashboard-PowerBI)
 
 ---
 
 ### Tableau – Customer Churn Dashboard  
-[![Dashboard Preview](plots/Dashboard.png)](https://github.com/josedeleon-analytics/tableau-customer-churn)  
 🔗 [Go to Tableau Repository](https://github.com/josedeleon-analytics/tableau-customer-churn)  
+[![Dashboard Preview](plots/Dashboard.png)](https://github.com/josedeleon-analytics/tableau-customer-churn)
 
 ---
 
