@@ -23,34 +23,27 @@ The dashboards enable interactive exploration of customer behavior, churn risk, 
 ## 📊 Dashboards  
 
 ### Power BI – Customer Churn Dashboard  
-🔗 [Go to Power BI Repository](https://github.com/josedeleon-analytics/customer-churn-dashboard-PowerBI)  
-[![Dashboard Preview](plots/dashboard.png)](https://github.com/josedeleon-analytics/customer-churn-dashboard-PowerBI)
+🔗 [Click here to visit the Power BI Repository](https://github.com/josedeleon-analytics/customer-churn-dashboard-PowerBI)  
+![Power BI Dashboard](plots/dashboard%20power%20bi.png) 
 
 ---
 
 ### Tableau – Customer Churn Dashboard  
-🔗 [Go to Tableau Repository](https://github.com/josedeleon-analytics/tableau-customer-churn)  
-[![Dashboard Preview](plots/Dashboard.png)](https://github.com/josedeleon-analytics/tableau-customer-churn)
+🔗 [Click here to visit the Tableau Repository](https://github.com/josedeleon-analytics/tableau-customer-churn)  
+![Tableau Dashboard](plots/Dashboard%20tableau.png)
 
 ---
 
 ## 📁 Repository Structure
 
+```bash
 customer-churn-analytics/
-├── powerbi/ # Power BI implementation
-│ ├── Customer Churn.pbix
-│ ├── dashboard_screenshot.png
-│ └── report.pdf
-├── tableau/ # Tableau implementation
-│ ├── Customer Churn Dashboard.twbx
-│ ├── dashboard_screenshot.png
-│ └── report.pdf
-├── data/ # Sample/cleaned dataset (if permitted)
-├── README.md # Project overview
-└── LICENSE
-
-
-
+├── plots/
+│ ├── dashboard power bi.png # Power BI dashboard preview
+│ └── Dashboard tableau.png # Tableau dashboard preview
+├── README.md # Project overview and links to full repos
+└── LICENSE # License information
+```
 ---
 
 ## 🛠 Tools & Skills
@@ -58,18 +51,6 @@ customer-churn-analytics/
 - **Power BI** – DAX measures, KPI cards, slicers, drill-downs.  
 - **Tableau** – Parameters, calculated fields, interactive dashboards.  
 - **Analytics Concepts** – Churn analysis, KPI tracking, customer segmentation.  
-
----
-
-## 📊 Dashboards
-
-### Power BI – Customer Churn Dashboard  
-![Power BI Dashboard](powerbi/dashboard_screenshot.png)  
-🔗 [Download PBIX file](powerbi/Customer%20Churn.pbix)  
-
-### Tableau – Customer Churn Dashboard  
-![Tableau Dashboard](tableau/dashboard_screenshot.png)  
-🔗 [View on Tableau Public](https://public.tableau.com/app/profile/josedeleon-analytics/viz/CustomerChurnDashboard/Dashboard)  
 
 ---
 
