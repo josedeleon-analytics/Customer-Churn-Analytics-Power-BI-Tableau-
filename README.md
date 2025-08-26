@@ -1,9 +1,9 @@
-# 📊 Customer Churn Analytics (Power BI + Tableau)
+# 📉 Customer Churn Analytics (Power BI + Tableau)
 
-![License](https://img.shields.io/github/license/josedeleon-analytics/customer-churn-analytics)  
-![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/customer-churn-analytics)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)  
-![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue?logo=tableau&logoColor=white)  
+[![License](https://img.shields.io/github/license/josedeleon-analytics/Customer-Churn-Analytics-Power-BI-Tableau-)](LICENSE)
+![GitHub last commit](https://img.shields.io/github/last-commit/josedeleon-analytics/Customer-Churn-Analytics-Power-BI-Tableau-)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboards-blue?logo=tableau&logoColor=white)
 
 This project analyzes **customer churn patterns** using both **Power BI** and **Tableau** to demonstrate versatility across leading business intelligence platforms.  
 The dashboards enable interactive exploration of customer behavior, churn risk, and retention strategies.  
